@@ -1,0 +1,23 @@
+@import "tailwindcss";
+
+@media print {
+  header, footer, nav, button, input[type="range"] {
+    display: none !important;
+  }
+  body, #root, main {
+    background-color: white !important;
+    color: black !important;
+    padding: 0 !important;
+    margin: 0 !important;
+  }
+  #print-area {
+    border: none !important;
+    box-shadow: none !important;
+    background: white !important;
+    color: black !important;
+  }
+  #print-area * {
+    color: black !important;
+    border-color: #cbd5e1 !important;
+  }
+}

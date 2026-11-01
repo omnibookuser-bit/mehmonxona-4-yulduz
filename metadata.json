@@ -1,0 +1,6 @@
+{
+  "name": "4 Юлдузли Меҳмонхона: Лойиҳа ва Инвестиция Модели",
+  "description": "100 ўринли, 4 қаватли 4* меҳмонхона меъморий лойиҳаси, тўлиқ CAPEX/OPEX молиявий модели, ROI ва инвестиция таҳлили.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
